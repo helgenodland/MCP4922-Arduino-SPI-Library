@@ -5,6 +5,10 @@ This is a Library for using MCP4922 DAC digital to analog converter with Arduino
 The Library uses hardware SPI to communicate with the DAC and there are Examples
 for how to use the DAC.
 
+Pins 51,52,53 is for ArduinoMEGA2560.
+
+Pins 10,11,13 is for Arduino Uno.
+
 Connections to make:
    
 Vdd   	DAC pin 1 to MEGA pin 5V;
